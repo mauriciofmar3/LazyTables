@@ -50,7 +50,7 @@
 #import "LazyTableAppDelegate.h"
 #import "RootViewController.h"
 #import "ParseOperation.h"
-#import "AppRecord.h"
+#import "LazyTableImages-Swift.h"
 
 // This framework was imported so we could use the kCFURLErrorNotConnectedToInternet error code.
 #import <CFNetwork/CFNetwork.h>

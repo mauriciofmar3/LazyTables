@@ -49,7 +49,7 @@
  */
 
 #import "IconDownloader.h"
-#import "AppRecord.h"
+#import "LazyTableImages-Swift.h"
 
 #define kAppIconSize 48
 

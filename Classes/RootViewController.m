@@ -58,7 +58,7 @@
  */
 
 #import "RootViewController.h"
-#import "AppRecord.h"
+#import "LazyTableImages-Swift.h"
 #import "IconDownloader.h"
 
 #define kCustomRowCount 7

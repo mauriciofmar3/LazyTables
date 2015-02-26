@@ -47,7 +47,7 @@
  */
 
 #import "ParseOperation.h"
-#import "AppRecord.h"
+#import "LazyTableImages-Swift.h"
 
 // string contants found in the RSS feed
 static NSString *kIDStr     = @"id";
